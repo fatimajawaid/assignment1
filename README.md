@@ -1,10 +1,6 @@
 # assignment1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Made a user profile using flutter. 
 
 A few resources to get you started if this is your first Flutter project:
 
